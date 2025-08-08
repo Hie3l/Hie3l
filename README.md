@@ -1,9 +1,8 @@
 Olá, Bem Vindo(a), eu sou Daniel 👋
 
-- 🔭 Trabalho na Área de Infrestutura
-- 🌱 Estudante de Eng da Computação
-- 😄 Pronouns: Ele/Dele
-- ⚡ Fun fact: Amo jogar Basquete
+- 🔭 Trabalho na Área de Dados
+- 🌱 Estudante de Eng de software
+- ⚡ Fun fact: Amo jogar Basquete e volei
 
 <div align="center">
   <a href="https://github.com/Hie3l">
